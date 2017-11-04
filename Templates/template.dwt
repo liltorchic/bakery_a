@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../CSS/default.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<header>
+	<ul class="navbarUnorderList">
+		<li class="navbarList"><p class="left logoArea">Logo</p></li>
+		<li class="navbarList"><a class="right" href="default.asp">Contact</a></li>
+		<li class="navbarList"><a class="right" href="default.asp">Products</a></li>
+		<li class="navbarList"><a class="right" href="default.asp">About Us</a></li>
+		<li class="navbarList"><a class="right" href="default.asp">Home</a></li>
+	</ul>
+</header>
+
+<!-- TemplateBeginEditable name="Content" -->
+
+<!-- TemplateEndEditable -->
+
+<div class="footer">
+  <div class="footerContent">
+  	<ul class="footerUnorderList">
+  		<li class="footerList"><a href="default.asp">Home</a></li>	
+  		<li class="footerList"><a href="default.asp">About Us</a></li>
+	    <li class="footerList"><a href="default.asp">Products</a></li>
+	    <li class="footerList"><a href="default.asp">Contact</a></li>
+  	</ul>
+  </div>
+  
+<div class="footerContentSocial">
+	<a href="#" class="fa fa-facebook"></a>
+	<a href="#" class="fa fa-twitter"></a> 
+	<a href="#" class="fa fa-google-plus"></a> 
+	<a href="#" class="fa fa-instagram"></a> 
+	<a href="#" class="fa fa-reddit-alien"></a> 
+	
+	<div class="under">
+	&copy; Copyright 2017 Alex Koehn
+	</div>
+</div>
+  
+<div class="footerContent">
+  	<ul class="footerUnorderList">
+  		<li class="footerList">Mon-Tues: 10-4</li>	
+  		<li class="footerList">Wed-Thurs:  10-4</li>
+	    <li class="footerList">Fri-Sat:  10-4</li>
+	    <li class="footerList">Sun: Closed</li>
+  	</ul>
+  </div>
+</div>
+
+
+</body>
+</html>
